@@ -1,0 +1,3 @@
+- Not ShadCDN because of complexity & better understanding of pure Tailwind
+- *.sql because of readibility
+- directory structure is 
